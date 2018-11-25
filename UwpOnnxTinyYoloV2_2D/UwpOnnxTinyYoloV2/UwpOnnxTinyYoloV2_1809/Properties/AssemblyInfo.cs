@@ -1,8 +1,5 @@
-﻿// Copyright(c) 2018 Takahiro Miyaura
-// Released under the MIT license
-// http://opensource.org/licenses/mit-license.php
-
-using System.Reflection;
+﻿using System.Reflection;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 

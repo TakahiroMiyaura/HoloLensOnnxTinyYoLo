@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:uap2="http://schemas.microsoft.com/appx/manifest/uap/windows10/2" IgnorableNamespaces="uap mp uap2">
-  <Identity Name="d473ae4a-7802-410d-92e7-b899afbdfe8c" Publisher="CN=cafek" Version="1.0.8.0" />
-  <mp:PhoneIdentity PhoneProductId="d473ae4a-7802-410d-92e7-b899afbdfe8c" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
+  <Identity Name="f0208271-7a5e-444f-8a3b-893272433cbf" Publisher="CN=cafek" Version="1.0.0.0" />
+  <mp:PhoneIdentity PhoneProductId="f0208271-7a5e-444f-8a3b-893272433cbf" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>UwpOnnxTinyYoloV2_1809</DisplayName>
     <PublisherDisplayName>cafek</PublisherDisplayName>
@@ -23,7 +23,7 @@
     </Application>
   </Applications>
   <Capabilities>
-    <DeviceCapability Name="microphone" />
     <DeviceCapability Name="webcam" />
+    <DeviceCapability Name="microphone" />
   </Capabilities>
 </Package>

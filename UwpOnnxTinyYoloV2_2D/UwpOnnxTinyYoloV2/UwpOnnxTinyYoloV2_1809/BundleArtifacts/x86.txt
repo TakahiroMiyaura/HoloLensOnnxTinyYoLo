@@ -1,0 +1,2 @@
+MainPackage=D:\workspaces\dev\Github\uuuuuuuuu\hoge\UwpOnnxTinyYoloV2_2D\UwpOnnxTinyYoloV2\UwpOnnxTinyYoloV2_1809\bin\x86\Debug\UwpOnnxTinyYoloV2_1809_1.0.1.0_x86_Debug.msix
+SymbolPackage=D:\workspaces\dev\Github\uuuuuuuuu\hoge\UwpOnnxTinyYoloV2_2D\UwpOnnxTinyYoloV2\UwpOnnxTinyYoloV2_1809\AppPackages\UwpOnnxTinyYoloV2_1809_1.0.1.0_Debug_Test\UwpOnnxTinyYoloV2_1809_1.0.1.0_x86_Debug.appxsym

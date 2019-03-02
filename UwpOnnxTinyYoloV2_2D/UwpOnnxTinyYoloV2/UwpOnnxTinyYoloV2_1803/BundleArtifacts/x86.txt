@@ -1,2 +1,0 @@
-MainPackage=D:\workspaces\dev\Github\HoloLensOnnxTinyYoLo\UwpOnnxTinyYoloV2_2D\UwpOnnxTinyYoloV2\UwpOnnxTinyYoloV2_1803\bin\x86\Release\UwpOnnxTinyYoloV2_1803_1.0.2.0_x86.appx
-SymbolPackage=D:\workspaces\dev\Github\HoloLensOnnxTinyYoLo\UwpOnnxTinyYoloV2_2D\UwpOnnxTinyYoloV2\UwpOnnxTinyYoloV2_1803\AppPackages\UwpOnnxTinyYoloV2_1803_1.0.2.0_Test\UwpOnnxTinyYoloV2_1803_1.0.2.0_x86.appxsym
